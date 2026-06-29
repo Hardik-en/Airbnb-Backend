@@ -1,0 +1,3002 @@
+[
+  {
+    "name": "Royal Delhi Resort 1",
+    "city": "Delhi",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Restaurant",
+      "Room Service",
+      "Spa",
+      "WiFi"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000000",
+      "email": "hotel1@example.com",
+      "completeAddress": "100 Main Road, Delhi, India",
+      "location": "28.6139,77.2090"
+    },
+    "active": false
+  },
+  {
+    "name": "Grand Mumbai Hotel 2",
+    "city": "Mumbai",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Business Center",
+      "Gym",
+      "Bonfire",
+      "Parking"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000001",
+      "email": "hotel2@example.com",
+      "completeAddress": "101 Main Road, Mumbai, India",
+      "location": "19.0760,72.8777"
+    },
+    "active": false
+  },
+  {
+    "name": "Golden Bangalore Residency 3",
+    "city": "Bangalore",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Restaurant",
+      "Boat Ride",
+      "Parking",
+      "Spa"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000002",
+      "email": "hotel3@example.com",
+      "completeAddress": "102 Main Road, Bangalore, India",
+      "location": "12.9716,77.5946"
+    },
+    "active": false
+  },
+  {
+    "name": "Silver Hyderabad Suites 4",
+    "city": "Hyderabad",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Restaurant",
+      "WiFi",
+      "Laundry",
+      "Beach Access"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000003",
+      "email": "hotel4@example.com",
+      "completeAddress": "103 Main Road, Hyderabad, India",
+      "location": "17.3850,78.4867"
+    },
+    "active": false
+  },
+  {
+    "name": "Emerald Chennai Retreat 5",
+    "city": "Chennai",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "WiFi",
+      "Boat Ride",
+      "Cafe",
+      "Laundry"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000004",
+      "email": "hotel5@example.com",
+      "completeAddress": "104 Main Road, Chennai, India",
+      "location": "13.0827,80.2707"
+    },
+    "active": false
+  },
+  {
+    "name": "Sapphire Kolkata Palace 6",
+    "city": "Kolkata",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Cafe",
+      "River View",
+      "Bonfire",
+      "Swimming Pool"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000005",
+      "email": "hotel6@example.com",
+      "completeAddress": "105 Main Road, Kolkata, India",
+      "location": "22.5726,88.3639"
+    },
+    "active": false
+  },
+  {
+    "name": "Palm Pune Inn 7",
+    "city": "Pune",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Spa",
+      "WiFi",
+      "Gym",
+      "Restaurant"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000006",
+      "email": "hotel7@example.com",
+      "completeAddress": "106 Main Road, Pune, India",
+      "location": "18.5204,73.8567"
+    },
+    "active": false
+  },
+  {
+    "name": "Lake Jaipur Heights 8",
+    "city": "Jaipur",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Laundry",
+      "Spa",
+      "Room Service",
+      "River View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000007",
+      "email": "hotel8@example.com",
+      "completeAddress": "107 Main Road, Jaipur, India",
+      "location": "26.9124,75.7873"
+    },
+    "active": false
+  },
+  {
+    "name": "Hill Udaipur Haven 9",
+    "city": "Udaipur",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Spa",
+      "Business Center",
+      "AC",
+      "Lake View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000008",
+      "email": "hotel9@example.com",
+      "completeAddress": "108 Main Road, Udaipur, India",
+      "location": "24.5854,73.7125"
+    },
+    "active": false
+  },
+  {
+    "name": "River Goa Grand 10",
+    "city": "Goa",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Room Service",
+      "Mountain View",
+      "AC"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000009",
+      "email": "hotel10@example.com",
+      "completeAddress": "109 Main Road, Goa, India",
+      "location": "15.2993,74.1240"
+    },
+    "active": false
+  },
+  {
+    "name": "Sky Manali Resort 11",
+    "city": "Manali",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Beach Access",
+      "Swimming Pool",
+      "Lake View",
+      "Gym"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000010",
+      "email": "hotel11@example.com",
+      "completeAddress": "110 Main Road, Manali, India",
+      "location": "32.2432,77.1892"
+    },
+    "active": false
+  },
+  {
+    "name": "Heritage Shimla Hotel 12",
+    "city": "Shimla",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Restaurant",
+      "AC",
+      "Business Center",
+      "Gym"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000011",
+      "email": "hotel12@example.com",
+      "completeAddress": "111 Main Road, Shimla, India",
+      "location": "31.1048,77.1734"
+    },
+    "active": false
+  },
+  {
+    "name": "Elite Srinagar Residency 13",
+    "city": "Srinagar",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Business Center",
+      "Bonfire",
+      "Swimming Pool",
+      "Gym"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000012",
+      "email": "hotel13@example.com",
+      "completeAddress": "112 Main Road, Srinagar, India",
+      "location": "34.0837,74.7973"
+    },
+    "active": false
+  },
+  {
+    "name": "Urban Leh Suites 14",
+    "city": "Leh",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Room Service",
+      "Parking",
+      "Laundry",
+      "River View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000013",
+      "email": "hotel14@example.com",
+      "completeAddress": "113 Main Road, Leh, India",
+      "location": "34.1526,77.5771"
+    },
+    "active": false
+  },
+  {
+    "name": "Vista Amritsar Retreat 15",
+    "city": "Amritsar",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "River View",
+      "Swimming Pool",
+      "WiFi",
+      "Laundry"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000014",
+      "email": "hotel15@example.com",
+      "completeAddress": "114 Main Road, Amritsar, India",
+      "location": "31.6340,74.8723"
+    },
+    "active": false
+  },
+  {
+    "name": "Royal Varanasi Palace 16",
+    "city": "Varanasi",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "River View",
+      "Restaurant",
+      "Boat Ride",
+      "Business Center"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000015",
+      "email": "hotel16@example.com",
+      "completeAddress": "115 Main Road, Varanasi, India",
+      "location": "25.3176,82.9739"
+    },
+    "active": true
+  },
+  {
+    "name": "Grand Agra Inn 17",
+    "city": "Agra",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "River View",
+      "Cafe",
+      "AC",
+      "Room Service"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000016",
+      "email": "hotel17@example.com",
+      "completeAddress": "116 Main Road, Agra, India",
+      "location": "27.1767,78.0081"
+    },
+    "active": true
+  },
+  {
+    "name": "Golden Munnar Heights 18",
+    "city": "Munnar",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Room Service",
+      "River View",
+      "Business Center"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000017",
+      "email": "hotel18@example.com",
+      "completeAddress": "117 Main Road, Munnar, India",
+      "location": "10.0889,77.0595"
+    },
+    "active": true
+  },
+  {
+    "name": "Silver Alleppey Haven 19",
+    "city": "Alleppey",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Lake View",
+      "Business Center",
+      "Mountain View",
+      "Room Service"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000018",
+      "email": "hotel19@example.com",
+      "completeAddress": "118 Main Road, Alleppey, India",
+      "location": "9.4981,76.3388"
+    },
+    "active": true
+  },
+  {
+    "name": "Emerald Pondicherry Grand 20",
+    "city": "Pondicherry",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Beach Access",
+      "Laundry",
+      "Bonfire",
+      "River View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000019",
+      "email": "hotel20@example.com",
+      "completeAddress": "119 Main Road, Pondicherry, India",
+      "location": "11.9416,79.8083"
+    },
+    "active": true
+  },
+  {
+    "name": "Sapphire Kochi Resort 21",
+    "city": "Kochi",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Business Center",
+      "Bonfire",
+      "Mountain View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000020",
+      "email": "hotel21@example.com",
+      "completeAddress": "120 Main Road, Kochi, India",
+      "location": "9.9312,76.2673"
+    },
+    "active": true
+  },
+  {
+    "name": "Palm Ahmedabad Hotel 22",
+    "city": "Ahmedabad",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Beach Access",
+      "Bonfire",
+      "Swimming Pool",
+      "Parking"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000021",
+      "email": "hotel22@example.com",
+      "completeAddress": "121 Main Road, Ahmedabad, India",
+      "location": "23.0225,72.5714"
+    },
+    "active": true
+  },
+  {
+    "name": "Lake Chandigarh Residency 23",
+    "city": "Chandigarh",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Mountain View",
+      "Gym",
+      "Bonfire",
+      "Cafe"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000022",
+      "email": "hotel23@example.com",
+      "completeAddress": "122 Main Road, Chandigarh, India",
+      "location": "30.7333,76.7794"
+    },
+    "active": true
+  },
+  {
+    "name": "Hill Lucknow Suites 24",
+    "city": "Lucknow",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "River View",
+      "Swimming Pool",
+      "Business Center",
+      "Restaurant"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000023",
+      "email": "hotel24@example.com",
+      "completeAddress": "123 Main Road, Lucknow, India",
+      "location": "26.8467,80.9462"
+    },
+    "active": true
+  },
+  {
+    "name": "River Indore Retreat 25",
+    "city": "Indore",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "AC",
+      "Parking",
+      "Laundry",
+      "WiFi"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000024",
+      "email": "hotel25@example.com",
+      "completeAddress": "124 Main Road, Indore, India",
+      "location": "22.7196,75.8577"
+    },
+    "active": true
+  },
+  {
+    "name": "Sky Bhopal Palace 26",
+    "city": "Bhopal",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Bonfire",
+      "AC",
+      "Lake View",
+      "Beach Access"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000025",
+      "email": "hotel26@example.com",
+      "completeAddress": "125 Main Road, Bhopal, India",
+      "location": "23.2599,77.4126"
+    },
+    "active": true
+  },
+  {
+    "name": "Heritage Rishikesh Inn 27",
+    "city": "Rishikesh",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Gym",
+      "AC",
+      "Cafe",
+      "Bonfire"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000026",
+      "email": "hotel27@example.com",
+      "completeAddress": "126 Main Road, Rishikesh, India",
+      "location": "30.0869,78.2676"
+    },
+    "active": true
+  },
+  {
+    "name": "Elite Dehradun Heights 28",
+    "city": "Dehradun",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "WiFi",
+      "Swimming Pool",
+      "Room Service",
+      "Bonfire"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000027",
+      "email": "hotel28@example.com",
+      "completeAddress": "127 Main Road, Dehradun, India",
+      "location": "30.3165,78.0322"
+    },
+    "active": true
+  },
+  {
+    "name": "Urban Mussoorie Haven 29",
+    "city": "Mussoorie",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Bonfire",
+      "Business Center",
+      "Cafe",
+      "WiFi"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000028",
+      "email": "hotel29@example.com",
+      "completeAddress": "128 Main Road, Mussoorie, India",
+      "location": "30.4598,78.0664"
+    },
+    "active": true
+  },
+  {
+    "name": "Vista Ooty Grand 30",
+    "city": "Ooty",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "River View",
+      "Business Center",
+      "Boat Ride",
+      "Bonfire"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000029",
+      "email": "hotel30@example.com",
+      "completeAddress": "129 Main Road, Ooty, India",
+      "location": "11.4064,76.6932"
+    },
+    "active": true
+  },
+  {
+    "name": "Royal Darjeeling Resort 31",
+    "city": "Darjeeling",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Restaurant",
+      "Bonfire",
+      "AC",
+      "Business Center"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000030",
+      "email": "hotel31@example.com",
+      "completeAddress": "130 Main Road, Darjeeling, India",
+      "location": "27.0360,88.2627"
+    },
+    "active": true
+  },
+  {
+    "name": "Grand Gangtok Hotel 32",
+    "city": "Gangtok",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Parking",
+      "Swimming Pool",
+      "Cafe",
+      "River View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000031",
+      "email": "hotel32@example.com",
+      "completeAddress": "131 Main Road, Gangtok, India",
+      "location": "27.3389,88.6065"
+    },
+    "active": true
+  },
+  {
+    "name": "Golden Coorg Residency 33",
+    "city": "Coorg",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "AC",
+      "Lake View",
+      "WiFi",
+      "Laundry"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000032",
+      "email": "hotel33@example.com",
+      "completeAddress": "132 Main Road, Coorg, India",
+      "location": "12.3375,75.8069"
+    },
+    "active": true
+  },
+  {
+    "name": "Silver Mysore Suites 34",
+    "city": "Mysore",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Gym",
+      "Spa",
+      "Bonfire",
+      "Laundry"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000033",
+      "email": "hotel34@example.com",
+      "completeAddress": "133 Main Road, Mysore, India",
+      "location": "12.2958,76.6394"
+    },
+    "active": true
+  },
+  {
+    "name": "Emerald Visakhapatnam Retreat 35",
+    "city": "Visakhapatnam",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Beach Access",
+      "Gym",
+      "Business Center",
+      "Laundry"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000034",
+      "email": "hotel35@example.com",
+      "completeAddress": "134 Main Road, Visakhapatnam, India",
+      "location": "17.6868,83.2185"
+    },
+    "active": true
+  },
+  {
+    "name": "Sapphire Bhubaneswar Palace 36",
+    "city": "Bhubaneswar",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Beach Access",
+      "Restaurant",
+      "Swimming Pool",
+      "Spa"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000035",
+      "email": "hotel36@example.com",
+      "completeAddress": "135 Main Road, Bhubaneswar, India",
+      "location": "20.2961,85.8245"
+    },
+    "active": true
+  },
+  {
+    "name": "Palm Nagpur Inn 37",
+    "city": "Nagpur",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Mountain View",
+      "Spa",
+      "Boat Ride",
+      "Room Service"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000036",
+      "email": "hotel37@example.com",
+      "completeAddress": "136 Main Road, Nagpur, India",
+      "location": "21.1458,79.0882"
+    },
+    "active": true
+  },
+  {
+    "name": "Lake Surat Heights 38",
+    "city": "Surat",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Gym",
+      "Spa",
+      "Boat Ride",
+      "Beach Access"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000037",
+      "email": "hotel38@example.com",
+      "completeAddress": "137 Main Road, Surat, India",
+      "location": "21.1702,72.8311"
+    },
+    "active": true
+  },
+  {
+    "name": "Hill Delhi Haven 39",
+    "city": "Delhi",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Cafe",
+      "Beach Access",
+      "Laundry",
+      "Spa"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000038",
+      "email": "hotel39@example.com",
+      "completeAddress": "138 Main Road, Delhi, India",
+      "location": "28.6139,77.2090"
+    },
+    "active": true
+  },
+  {
+    "name": "River Mumbai Grand 40",
+    "city": "Mumbai",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Business Center",
+      "Parking",
+      "Beach Access",
+      "Bonfire"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000039",
+      "email": "hotel40@example.com",
+      "completeAddress": "139 Main Road, Mumbai, India",
+      "location": "19.0760,72.8777"
+    },
+    "active": true
+  },
+  {
+    "name": "Sky Bangalore Resort 41",
+    "city": "Bangalore",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "River View",
+      "Lake View",
+      "Boat Ride",
+      "Business Center"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000040",
+      "email": "hotel41@example.com",
+      "completeAddress": "140 Main Road, Bangalore, India",
+      "location": "12.9716,77.5946"
+    },
+    "active": true
+  },
+  {
+    "name": "Heritage Hyderabad Hotel 42",
+    "city": "Hyderabad",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Parking",
+      "Lake View",
+      "Swimming Pool",
+      "River View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000041",
+      "email": "hotel42@example.com",
+      "completeAddress": "141 Main Road, Hyderabad, India",
+      "location": "17.3850,78.4867"
+    },
+    "active": true
+  },
+  {
+    "name": "Elite Chennai Residency 43",
+    "city": "Chennai",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "AC",
+      "Room Service",
+      "Mountain View",
+      "River View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000042",
+      "email": "hotel43@example.com",
+      "completeAddress": "142 Main Road, Chennai, India",
+      "location": "13.0827,80.2707"
+    },
+    "active": true
+  },
+  {
+    "name": "Urban Kolkata Suites 44",
+    "city": "Kolkata",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Spa",
+      "Swimming Pool",
+      "Lake View",
+      "Restaurant"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000043",
+      "email": "hotel44@example.com",
+      "completeAddress": "143 Main Road, Kolkata, India",
+      "location": "22.5726,88.3639"
+    },
+    "active": true
+  },
+  {
+    "name": "Vista Pune Retreat 45",
+    "city": "Pune",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Spa",
+      "Lake View",
+      "Mountain View",
+      "Parking"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000044",
+      "email": "hotel45@example.com",
+      "completeAddress": "144 Main Road, Pune, India",
+      "location": "18.5204,73.8567"
+    },
+    "active": true
+  },
+  {
+    "name": "Royal Jaipur Palace 46",
+    "city": "Jaipur",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Cafe",
+      "Bonfire",
+      "Laundry",
+      "Mountain View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000045",
+      "email": "hotel46@example.com",
+      "completeAddress": "145 Main Road, Jaipur, India",
+      "location": "26.9124,75.7873"
+    },
+    "active": true
+  },
+  {
+    "name": "Grand Udaipur Inn 47",
+    "city": "Udaipur",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Lake View",
+      "Cafe",
+      "Laundry",
+      "Room Service"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000046",
+      "email": "hotel47@example.com",
+      "completeAddress": "146 Main Road, Udaipur, India",
+      "location": "24.5854,73.7125"
+    },
+    "active": true
+  },
+  {
+    "name": "Golden Goa Heights 48",
+    "city": "Goa",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "WiFi",
+      "Spa",
+      "River View",
+      "Parking"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000047",
+      "email": "hotel48@example.com",
+      "completeAddress": "147 Main Road, Goa, India",
+      "location": "15.2993,74.1240"
+    },
+    "active": true
+  },
+  {
+    "name": "Silver Manali Haven 49",
+    "city": "Manali",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "River View",
+      "Lake View",
+      "Cafe",
+      "Laundry"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000048",
+      "email": "hotel49@example.com",
+      "completeAddress": "148 Main Road, Manali, India",
+      "location": "32.2432,77.1892"
+    },
+    "active": true
+  },
+  {
+    "name": "Emerald Shimla Grand 50",
+    "city": "Shimla",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Bonfire",
+      "River View",
+      "WiFi",
+      "Business Center"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000049",
+      "email": "hotel50@example.com",
+      "completeAddress": "149 Main Road, Shimla, India",
+      "location": "31.1048,77.1734"
+    },
+    "active": true
+  },
+  {
+    "name": "Sapphire Srinagar Resort 51",
+    "city": "Srinagar",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Room Service",
+      "Boat Ride",
+      "AC",
+      "Gym"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000050",
+      "email": "hotel51@example.com",
+      "completeAddress": "150 Main Road, Srinagar, India",
+      "location": "34.0837,74.7973"
+    },
+    "active": true
+  },
+  {
+    "name": "Palm Leh Hotel 52",
+    "city": "Leh",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Lake View",
+      "Boat Ride",
+      "AC",
+      "Spa"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000051",
+      "email": "hotel52@example.com",
+      "completeAddress": "151 Main Road, Leh, India",
+      "location": "34.1526,77.5771"
+    },
+    "active": true
+  },
+  {
+    "name": "Lake Amritsar Residency 53",
+    "city": "Amritsar",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Beach Access",
+      "Spa",
+      "Restaurant",
+      "AC"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000052",
+      "email": "hotel53@example.com",
+      "completeAddress": "152 Main Road, Amritsar, India",
+      "location": "31.6340,74.8723"
+    },
+    "active": true
+  },
+  {
+    "name": "Hill Varanasi Suites 54",
+    "city": "Varanasi",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "River View",
+      "Lake View",
+      "Gym",
+      "Parking"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000053",
+      "email": "hotel54@example.com",
+      "completeAddress": "153 Main Road, Varanasi, India",
+      "location": "25.3176,82.9739"
+    },
+    "active": true
+  },
+  {
+    "name": "River Agra Retreat 55",
+    "city": "Agra",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "River View",
+      "Spa",
+      "Room Service",
+      "Cafe"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000054",
+      "email": "hotel55@example.com",
+      "completeAddress": "154 Main Road, Agra, India",
+      "location": "27.1767,78.0081"
+    },
+    "active": true
+  },
+  {
+    "name": "Sky Munnar Palace 56",
+    "city": "Munnar",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Cafe",
+      "Lake View",
+      "Spa",
+      "Bonfire"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000055",
+      "email": "hotel56@example.com",
+      "completeAddress": "155 Main Road, Munnar, India",
+      "location": "10.0889,77.0595"
+    },
+    "active": true
+  },
+  {
+    "name": "Heritage Alleppey Inn 57",
+    "city": "Alleppey",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Mountain View",
+      "Restaurant",
+      "River View",
+      "Room Service"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000056",
+      "email": "hotel57@example.com",
+      "completeAddress": "156 Main Road, Alleppey, India",
+      "location": "9.4981,76.3388"
+    },
+    "active": true
+  },
+  {
+    "name": "Elite Pondicherry Heights 58",
+    "city": "Pondicherry",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "WiFi",
+      "Room Service",
+      "Mountain View",
+      "Boat Ride"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000057",
+      "email": "hotel58@example.com",
+      "completeAddress": "157 Main Road, Pondicherry, India",
+      "location": "11.9416,79.8083"
+    },
+    "active": true
+  },
+  {
+    "name": "Urban Kochi Haven 59",
+    "city": "Kochi",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Room Service",
+      "WiFi",
+      "Cafe",
+      "Beach Access"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000058",
+      "email": "hotel59@example.com",
+      "completeAddress": "158 Main Road, Kochi, India",
+      "location": "9.9312,76.2673"
+    },
+    "active": true
+  },
+  {
+    "name": "Vista Ahmedabad Grand 60",
+    "city": "Ahmedabad",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Business Center",
+      "Parking",
+      "Beach Access",
+      "WiFi"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000059",
+      "email": "hotel60@example.com",
+      "completeAddress": "159 Main Road, Ahmedabad, India",
+      "location": "23.0225,72.5714"
+    },
+    "active": true
+  },
+  {
+    "name": "Royal Chandigarh Resort 61",
+    "city": "Chandigarh",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Bonfire",
+      "Mountain View",
+      "Boat Ride",
+      "River View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000060",
+      "email": "hotel61@example.com",
+      "completeAddress": "160 Main Road, Chandigarh, India",
+      "location": "30.7333,76.7794"
+    },
+    "active": true
+  },
+  {
+    "name": "Grand Lucknow Hotel 62",
+    "city": "Lucknow",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "River View",
+      "Beach Access",
+      "Laundry",
+      "Cafe"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000061",
+      "email": "hotel62@example.com",
+      "completeAddress": "161 Main Road, Lucknow, India",
+      "location": "26.8467,80.9462"
+    },
+    "active": true
+  },
+  {
+    "name": "Golden Indore Residency 63",
+    "city": "Indore",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "AC",
+      "Mountain View",
+      "Boat Ride",
+      "Lake View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000062",
+      "email": "hotel63@example.com",
+      "completeAddress": "162 Main Road, Indore, India",
+      "location": "22.7196,75.8577"
+    },
+    "active": true
+  },
+  {
+    "name": "Silver Bhopal Suites 64",
+    "city": "Bhopal",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "River View",
+      "Boat Ride",
+      "WiFi"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000063",
+      "email": "hotel64@example.com",
+      "completeAddress": "163 Main Road, Bhopal, India",
+      "location": "23.2599,77.4126"
+    },
+    "active": true
+  },
+  {
+    "name": "Emerald Rishikesh Retreat 65",
+    "city": "Rishikesh",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Boat Ride",
+      "Mountain View",
+      "Swimming Pool",
+      "Cafe"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000064",
+      "email": "hotel65@example.com",
+      "completeAddress": "164 Main Road, Rishikesh, India",
+      "location": "30.0869,78.2676"
+    },
+    "active": true
+  },
+  {
+    "name": "Sapphire Dehradun Palace 66",
+    "city": "Dehradun",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Restaurant",
+      "WiFi",
+      "Bonfire",
+      "Mountain View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000065",
+      "email": "hotel66@example.com",
+      "completeAddress": "165 Main Road, Dehradun, India",
+      "location": "30.3165,78.0322"
+    },
+    "active": true
+  },
+  {
+    "name": "Palm Mussoorie Inn 67",
+    "city": "Mussoorie",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Beach Access",
+      "Room Service",
+      "Mountain View",
+      "Laundry"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000066",
+      "email": "hotel67@example.com",
+      "completeAddress": "166 Main Road, Mussoorie, India",
+      "location": "30.4598,78.0664"
+    },
+    "active": true
+  },
+  {
+    "name": "Lake Ooty Heights 68",
+    "city": "Ooty",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Boat Ride",
+      "Bonfire",
+      "WiFi",
+      "Lake View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000067",
+      "email": "hotel68@example.com",
+      "completeAddress": "167 Main Road, Ooty, India",
+      "location": "11.4064,76.6932"
+    },
+    "active": true
+  },
+  {
+    "name": "Hill Darjeeling Haven 69",
+    "city": "Darjeeling",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Bonfire",
+      "Mountain View",
+      "AC",
+      "Parking"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000068",
+      "email": "hotel69@example.com",
+      "completeAddress": "168 Main Road, Darjeeling, India",
+      "location": "27.0360,88.2627"
+    },
+    "active": true
+  },
+  {
+    "name": "River Gangtok Grand 70",
+    "city": "Gangtok",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Boat Ride",
+      "Mountain View",
+      "Restaurant",
+      "Laundry"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000069",
+      "email": "hotel70@example.com",
+      "completeAddress": "169 Main Road, Gangtok, India",
+      "location": "27.3389,88.6065"
+    },
+    "active": true
+  },
+  {
+    "name": "Sky Coorg Resort 71",
+    "city": "Coorg",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Bonfire",
+      "Laundry",
+      "Spa",
+      "Swimming Pool"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000070",
+      "email": "hotel71@example.com",
+      "completeAddress": "170 Main Road, Coorg, India",
+      "location": "12.3375,75.8069"
+    },
+    "active": true
+  },
+  {
+    "name": "Heritage Mysore Hotel 72",
+    "city": "Mysore",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Business Center",
+      "River View",
+      "Mountain View",
+      "Parking"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000071",
+      "email": "hotel72@example.com",
+      "completeAddress": "171 Main Road, Mysore, India",
+      "location": "12.2958,76.6394"
+    },
+    "active": true
+  },
+  {
+    "name": "Elite Visakhapatnam Residency 73",
+    "city": "Visakhapatnam",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Restaurant",
+      "Boat Ride",
+      "Room Service",
+      "Gym"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000072",
+      "email": "hotel73@example.com",
+      "completeAddress": "172 Main Road, Visakhapatnam, India",
+      "location": "17.6868,83.2185"
+    },
+    "active": true
+  },
+  {
+    "name": "Urban Bhubaneswar Suites 74",
+    "city": "Bhubaneswar",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Laundry",
+      "Cafe",
+      "Room Service",
+      "AC"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000073",
+      "email": "hotel74@example.com",
+      "completeAddress": "173 Main Road, Bhubaneswar, India",
+      "location": "20.2961,85.8245"
+    },
+    "active": true
+  },
+  {
+    "name": "Vista Nagpur Retreat 75",
+    "city": "Nagpur",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Boat Ride",
+      "Parking",
+      "WiFi",
+      "Room Service"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000074",
+      "email": "hotel75@example.com",
+      "completeAddress": "174 Main Road, Nagpur, India",
+      "location": "21.1458,79.0882"
+    },
+    "active": true
+  },
+  {
+    "name": "Royal Surat Palace 76",
+    "city": "Surat",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Room Service",
+      "Parking",
+      "Swimming Pool",
+      "Mountain View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000075",
+      "email": "hotel76@example.com",
+      "completeAddress": "175 Main Road, Surat, India",
+      "location": "21.1702,72.8311"
+    },
+    "active": true
+  },
+  {
+    "name": "Grand Delhi Inn 77",
+    "city": "Delhi",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "AC",
+      "Boat Ride",
+      "Room Service",
+      "Restaurant"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000076",
+      "email": "hotel77@example.com",
+      "completeAddress": "176 Main Road, Delhi, India",
+      "location": "28.6139,77.2090"
+    },
+    "active": true
+  },
+  {
+    "name": "Golden Mumbai Heights 78",
+    "city": "Mumbai",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Beach Access",
+      "Business Center",
+      "Parking",
+      "Room Service"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000077",
+      "email": "hotel78@example.com",
+      "completeAddress": "177 Main Road, Mumbai, India",
+      "location": "19.0760,72.8777"
+    },
+    "active": true
+  },
+  {
+    "name": "Silver Bangalore Haven 79",
+    "city": "Bangalore",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "WiFi",
+      "Swimming Pool",
+      "Boat Ride",
+      "Gym"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000078",
+      "email": "hotel79@example.com",
+      "completeAddress": "178 Main Road, Bangalore, India",
+      "location": "12.9716,77.5946"
+    },
+    "active": true
+  },
+  {
+    "name": "Emerald Hyderabad Grand 80",
+    "city": "Hyderabad",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Business Center",
+      "Mountain View",
+      "WiFi",
+      "Restaurant"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000079",
+      "email": "hotel80@example.com",
+      "completeAddress": "179 Main Road, Hyderabad, India",
+      "location": "17.3850,78.4867"
+    },
+    "active": true
+  },
+  {
+    "name": "Sapphire Chennai Resort 81",
+    "city": "Chennai",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Boat Ride",
+      "Beach Access",
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000080",
+      "email": "hotel81@example.com",
+      "completeAddress": "180 Main Road, Chennai, India",
+      "location": "13.0827,80.2707"
+    },
+    "active": true
+  },
+  {
+    "name": "Palm Kolkata Hotel 82",
+    "city": "Kolkata",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Lake View",
+      "Room Service",
+      "Swimming Pool",
+      "Beach Access"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000081",
+      "email": "hotel82@example.com",
+      "completeAddress": "181 Main Road, Kolkata, India",
+      "location": "22.5726,88.3639"
+    },
+    "active": true
+  },
+  {
+    "name": "Lake Pune Residency 83",
+    "city": "Pune",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "River View",
+      "Spa",
+      "Business Center",
+      "Gym"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000082",
+      "email": "hotel83@example.com",
+      "completeAddress": "182 Main Road, Pune, India",
+      "location": "18.5204,73.8567"
+    },
+    "active": true
+  },
+  {
+    "name": "Hill Jaipur Suites 84",
+    "city": "Jaipur",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Parking",
+      "WiFi",
+      "Swimming Pool",
+      "River View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000083",
+      "email": "hotel84@example.com",
+      "completeAddress": "183 Main Road, Jaipur, India",
+      "location": "26.9124,75.7873"
+    },
+    "active": true
+  },
+  {
+    "name": "River Udaipur Retreat 85",
+    "city": "Udaipur",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Boat Ride",
+      "River View",
+      "Lake View",
+      "AC"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000084",
+      "email": "hotel85@example.com",
+      "completeAddress": "184 Main Road, Udaipur, India",
+      "location": "24.5854,73.7125"
+    },
+    "active": true
+  },
+  {
+    "name": "Sky Goa Palace 86",
+    "city": "Goa",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Business Center",
+      "Laundry",
+      "WiFi"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000085",
+      "email": "hotel86@example.com",
+      "completeAddress": "185 Main Road, Goa, India",
+      "location": "15.2993,74.1240"
+    },
+    "active": true
+  },
+  {
+    "name": "Heritage Manali Inn 87",
+    "city": "Manali",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Lake View",
+      "Restaurant",
+      "Boat Ride",
+      "Cafe"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000086",
+      "email": "hotel87@example.com",
+      "completeAddress": "186 Main Road, Manali, India",
+      "location": "32.2432,77.1892"
+    },
+    "active": true
+  },
+  {
+    "name": "Elite Shimla Heights 88",
+    "city": "Shimla",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Bonfire",
+      "Restaurant",
+      "WiFi",
+      "Laundry"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000087",
+      "email": "hotel88@example.com",
+      "completeAddress": "187 Main Road, Shimla, India",
+      "location": "31.1048,77.1734"
+    },
+    "active": true
+  },
+  {
+    "name": "Urban Srinagar Haven 89",
+    "city": "Srinagar",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Lake View",
+      "WiFi",
+      "Bonfire",
+      "Restaurant"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000088",
+      "email": "hotel89@example.com",
+      "completeAddress": "188 Main Road, Srinagar, India",
+      "location": "34.0837,74.7973"
+    },
+    "active": true
+  },
+  {
+    "name": "Vista Leh Grand 90",
+    "city": "Leh",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "AC",
+      "Parking",
+      "Gym",
+      "Spa"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000089",
+      "email": "hotel90@example.com",
+      "completeAddress": "189 Main Road, Leh, India",
+      "location": "34.1526,77.5771"
+    },
+    "active": true
+  },
+  {
+    "name": "Royal Amritsar Resort 91",
+    "city": "Amritsar",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Gym",
+      "Room Service",
+      "Bonfire",
+      "Swimming Pool"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000090",
+      "email": "hotel91@example.com",
+      "completeAddress": "190 Main Road, Amritsar, India",
+      "location": "31.6340,74.8723"
+    },
+    "active": true
+  },
+  {
+    "name": "Grand Varanasi Hotel 92",
+    "city": "Varanasi",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "AC",
+      "Room Service",
+      "Business Center",
+      "Restaurant"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000091",
+      "email": "hotel92@example.com",
+      "completeAddress": "191 Main Road, Varanasi, India",
+      "location": "25.3176,82.9739"
+    },
+    "active": true
+  },
+  {
+    "name": "Golden Agra Residency 93",
+    "city": "Agra",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Business Center",
+      "Room Service",
+      "Cafe",
+      "Parking"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000092",
+      "email": "hotel93@example.com",
+      "completeAddress": "192 Main Road, Agra, India",
+      "location": "27.1767,78.0081"
+    },
+    "active": true
+  },
+  {
+    "name": "Silver Munnar Suites 94",
+    "city": "Munnar",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Mountain View",
+      "Gym",
+      "River View",
+      "Spa"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000093",
+      "email": "hotel94@example.com",
+      "completeAddress": "193 Main Road, Munnar, India",
+      "location": "10.0889,77.0595"
+    },
+    "active": true
+  },
+  {
+    "name": "Emerald Alleppey Retreat 95",
+    "city": "Alleppey",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Business Center",
+      "Gym",
+      "Room Service",
+      "WiFi"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000094",
+      "email": "hotel95@example.com",
+      "completeAddress": "194 Main Road, Alleppey, India",
+      "location": "9.4981,76.3388"
+    },
+    "active": true
+  },
+  {
+    "name": "Sapphire Pondicherry Palace 96",
+    "city": "Pondicherry",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Room Service",
+      "Restaurant",
+      "Business Center",
+      "Gym"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000095",
+      "email": "hotel96@example.com",
+      "completeAddress": "195 Main Road, Pondicherry, India",
+      "location": "11.9416,79.8083"
+    },
+    "active": true
+  },
+  {
+    "name": "Palm Kochi Inn 97",
+    "city": "Kochi",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Restaurant",
+      "Boat Ride",
+      "Lake View",
+      "Swimming Pool"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000096",
+      "email": "hotel97@example.com",
+      "completeAddress": "196 Main Road, Kochi, India",
+      "location": "9.9312,76.2673"
+    },
+    "active": true
+  },
+  {
+    "name": "Lake Ahmedabad Heights 98",
+    "city": "Ahmedabad",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "River View",
+      "Cafe",
+      "Swimming Pool",
+      "Business Center"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000097",
+      "email": "hotel98@example.com",
+      "completeAddress": "197 Main Road, Ahmedabad, India",
+      "location": "23.0225,72.5714"
+    },
+    "active": true
+  },
+  {
+    "name": "Hill Chandigarh Haven 99",
+    "city": "Chandigarh",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Boat Ride",
+      "AC",
+      "Bonfire",
+      "Cafe"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000098",
+      "email": "hotel99@example.com",
+      "completeAddress": "198 Main Road, Chandigarh, India",
+      "location": "30.7333,76.7794"
+    },
+    "active": true
+  },
+  {
+    "name": "River Lucknow Grand 100",
+    "city": "Lucknow",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Lake View",
+      "Cafe",
+      "Laundry",
+      "Business Center"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000099",
+      "email": "hotel100@example.com",
+      "completeAddress": "199 Main Road, Lucknow, India",
+      "location": "26.8467,80.9462"
+    },
+    "active": true
+  },
+  {
+    "name": "Sky Indore Resort 101",
+    "city": "Indore",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Room Service",
+      "Lake View",
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000100",
+      "email": "hotel101@example.com",
+      "completeAddress": "200 Main Road, Indore, India",
+      "location": "22.7196,75.8577"
+    },
+    "active": true
+  },
+  {
+    "name": "Heritage Bhopal Hotel 102",
+    "city": "Bhopal",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "AC",
+      "Swimming Pool",
+      "Parking",
+      "Beach Access"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000101",
+      "email": "hotel102@example.com",
+      "completeAddress": "201 Main Road, Bhopal, India",
+      "location": "23.2599,77.4126"
+    },
+    "active": true
+  },
+  {
+    "name": "Elite Rishikesh Residency 103",
+    "city": "Rishikesh",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Spa",
+      "Cafe",
+      "River View",
+      "AC"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000102",
+      "email": "hotel103@example.com",
+      "completeAddress": "202 Main Road, Rishikesh, India",
+      "location": "30.0869,78.2676"
+    },
+    "active": true
+  },
+  {
+    "name": "Urban Dehradun Suites 104",
+    "city": "Dehradun",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Lake View",
+      "Spa",
+      "Business Center",
+      "Boat Ride"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000103",
+      "email": "hotel104@example.com",
+      "completeAddress": "203 Main Road, Dehradun, India",
+      "location": "30.3165,78.0322"
+    },
+    "active": true
+  },
+  {
+    "name": "Vista Mussoorie Retreat 105",
+    "city": "Mussoorie",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Business Center",
+      "WiFi",
+      "Bonfire"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000104",
+      "email": "hotel105@example.com",
+      "completeAddress": "204 Main Road, Mussoorie, India",
+      "location": "30.4598,78.0664"
+    },
+    "active": true
+  },
+  {
+    "name": "Royal Ooty Palace 106",
+    "city": "Ooty",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "AC",
+      "Lake View",
+      "Spa",
+      "River View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000105",
+      "email": "hotel106@example.com",
+      "completeAddress": "205 Main Road, Ooty, India",
+      "location": "11.4064,76.6932"
+    },
+    "active": true
+  },
+  {
+    "name": "Grand Darjeeling Inn 107",
+    "city": "Darjeeling",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Beach Access",
+      "Bonfire",
+      "Room Service",
+      "Parking"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000106",
+      "email": "hotel107@example.com",
+      "completeAddress": "206 Main Road, Darjeeling, India",
+      "location": "27.0360,88.2627"
+    },
+    "active": true
+  },
+  {
+    "name": "Golden Gangtok Heights 108",
+    "city": "Gangtok",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Gym",
+      "AC",
+      "Room Service",
+      "Business Center"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000107",
+      "email": "hotel108@example.com",
+      "completeAddress": "207 Main Road, Gangtok, India",
+      "location": "27.3389,88.6065"
+    },
+    "active": true
+  },
+  {
+    "name": "Silver Coorg Haven 109",
+    "city": "Coorg",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Spa",
+      "River View",
+      "Gym",
+      "Bonfire"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000108",
+      "email": "hotel109@example.com",
+      "completeAddress": "208 Main Road, Coorg, India",
+      "location": "12.3375,75.8069"
+    },
+    "active": true
+  },
+  {
+    "name": "Emerald Mysore Grand 110",
+    "city": "Mysore",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Room Service",
+      "Mountain View",
+      "Business Center",
+      "Gym"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000109",
+      "email": "hotel110@example.com",
+      "completeAddress": "209 Main Road, Mysore, India",
+      "location": "12.2958,76.6394"
+    },
+    "active": true
+  },
+  {
+    "name": "Sapphire Visakhapatnam Resort 111",
+    "city": "Visakhapatnam",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Lake View",
+      "River View",
+      "Business Center",
+      "Spa"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000110",
+      "email": "hotel111@example.com",
+      "completeAddress": "210 Main Road, Visakhapatnam, India",
+      "location": "17.6868,83.2185"
+    },
+    "active": true
+  },
+  {
+    "name": "Palm Bhubaneswar Hotel 112",
+    "city": "Bhubaneswar",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Bonfire",
+      "Room Service",
+      "Laundry",
+      "Lake View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000111",
+      "email": "hotel112@example.com",
+      "completeAddress": "211 Main Road, Bhubaneswar, India",
+      "location": "20.2961,85.8245"
+    },
+    "active": true
+  },
+  {
+    "name": "Lake Nagpur Residency 113",
+    "city": "Nagpur",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Boat Ride",
+      "Gym",
+      "Cafe",
+      "Lake View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000112",
+      "email": "hotel113@example.com",
+      "completeAddress": "212 Main Road, Nagpur, India",
+      "location": "21.1458,79.0882"
+    },
+    "active": true
+  },
+  {
+    "name": "Hill Surat Suites 114",
+    "city": "Surat",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Boat Ride",
+      "Swimming Pool",
+      "Business Center",
+      "River View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000113",
+      "email": "hotel114@example.com",
+      "completeAddress": "213 Main Road, Surat, India",
+      "location": "21.1702,72.8311"
+    },
+    "active": true
+  },
+  {
+    "name": "River Delhi Retreat 115",
+    "city": "Delhi",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Beach Access",
+      "Mountain View",
+      "Laundry",
+      "River View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000114",
+      "email": "hotel115@example.com",
+      "completeAddress": "214 Main Road, Delhi, India",
+      "location": "28.6139,77.2090"
+    },
+    "active": true
+  },
+  {
+    "name": "Sky Mumbai Palace 116",
+    "city": "Mumbai",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Room Service",
+      "Lake View",
+      "Parking",
+      "AC"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000115",
+      "email": "hotel116@example.com",
+      "completeAddress": "215 Main Road, Mumbai, India",
+      "location": "19.0760,72.8777"
+    },
+    "active": true
+  },
+  {
+    "name": "Heritage Bangalore Inn 117",
+    "city": "Bangalore",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Beach Access",
+      "WiFi",
+      "Bonfire"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000116",
+      "email": "hotel117@example.com",
+      "completeAddress": "216 Main Road, Bangalore, India",
+      "location": "12.9716,77.5946"
+    },
+    "active": true
+  },
+  {
+    "name": "Elite Hyderabad Heights 118",
+    "city": "Hyderabad",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Room Service",
+      "Laundry",
+      "Mountain View",
+      "Boat Ride"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000117",
+      "email": "hotel118@example.com",
+      "completeAddress": "217 Main Road, Hyderabad, India",
+      "location": "17.3850,78.4867"
+    },
+    "active": true
+  },
+  {
+    "name": "Urban Chennai Haven 119",
+    "city": "Chennai",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Laundry",
+      "Cafe",
+      "Parking",
+      "Swimming Pool"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000118",
+      "email": "hotel119@example.com",
+      "completeAddress": "218 Main Road, Chennai, India",
+      "location": "13.0827,80.2707"
+    },
+    "active": true
+  },
+  {
+    "name": "Vista Kolkata Grand 120",
+    "city": "Kolkata",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Bonfire",
+      "Laundry",
+      "Boat Ride",
+      "Parking"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000119",
+      "email": "hotel120@example.com",
+      "completeAddress": "219 Main Road, Kolkata, India",
+      "location": "22.5726,88.3639"
+    },
+    "active": true
+  },
+  {
+    "name": "Royal Pune Resort 121",
+    "city": "Pune",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Boat Ride",
+      "Business Center",
+      "Gym",
+      "AC"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000120",
+      "email": "hotel121@example.com",
+      "completeAddress": "220 Main Road, Pune, India",
+      "location": "18.5204,73.8567"
+    },
+    "active": true
+  },
+  {
+    "name": "Grand Jaipur Hotel 122",
+    "city": "Jaipur",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Lake View",
+      "Business Center",
+      "WiFi",
+      "Cafe"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000121",
+      "email": "hotel122@example.com",
+      "completeAddress": "221 Main Road, Jaipur, India",
+      "location": "26.9124,75.7873"
+    },
+    "active": true
+  },
+  {
+    "name": "Golden Udaipur Residency 123",
+    "city": "Udaipur",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Beach Access",
+      "Gym",
+      "Parking",
+      "Business Center"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000122",
+      "email": "hotel123@example.com",
+      "completeAddress": "222 Main Road, Udaipur, India",
+      "location": "24.5854,73.7125"
+    },
+    "active": true
+  },
+  {
+    "name": "Silver Goa Suites 124",
+    "city": "Goa",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Mountain View",
+      "Restaurant",
+      "Boat Ride",
+      "AC"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000123",
+      "email": "hotel124@example.com",
+      "completeAddress": "223 Main Road, Goa, India",
+      "location": "15.2993,74.1240"
+    },
+    "active": true
+  },
+  {
+    "name": "Emerald Manali Retreat 125",
+    "city": "Manali",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Gym",
+      "WiFi",
+      "Lake View",
+      "Spa"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000124",
+      "email": "hotel125@example.com",
+      "completeAddress": "224 Main Road, Manali, India",
+      "location": "32.2432,77.1892"
+    },
+    "active": true
+  },
+  {
+    "name": "Sapphire Shimla Palace 126",
+    "city": "Shimla",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Cafe",
+      "Laundry",
+      "Parking",
+      "Mountain View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000125",
+      "email": "hotel126@example.com",
+      "completeAddress": "225 Main Road, Shimla, India",
+      "location": "31.1048,77.1734"
+    },
+    "active": true
+  },
+  {
+    "name": "Palm Srinagar Inn 127",
+    "city": "Srinagar",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "AC",
+      "Mountain View",
+      "Lake View",
+      "WiFi"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000126",
+      "email": "hotel127@example.com",
+      "completeAddress": "226 Main Road, Srinagar, India",
+      "location": "34.0837,74.7973"
+    },
+    "active": true
+  },
+  {
+    "name": "Lake Leh Heights 128",
+    "city": "Leh",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Business Center",
+      "Swimming Pool",
+      "Lake View",
+      "Restaurant"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000127",
+      "email": "hotel128@example.com",
+      "completeAddress": "227 Main Road, Leh, India",
+      "location": "34.1526,77.5771"
+    },
+    "active": true
+  },
+  {
+    "name": "Hill Amritsar Haven 129",
+    "city": "Amritsar",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "WiFi",
+      "Bonfire",
+      "River View",
+      "Boat Ride"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000128",
+      "email": "hotel129@example.com",
+      "completeAddress": "228 Main Road, Amritsar, India",
+      "location": "31.6340,74.8723"
+    },
+    "active": true
+  },
+  {
+    "name": "River Varanasi Grand 130",
+    "city": "Varanasi",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Lake View",
+      "Restaurant",
+      "Business Center",
+      "Boat Ride"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000129",
+      "email": "hotel130@example.com",
+      "completeAddress": "229 Main Road, Varanasi, India",
+      "location": "25.3176,82.9739"
+    },
+    "active": true
+  },
+  {
+    "name": "Sky Agra Resort 131",
+    "city": "Agra",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Mountain View",
+      "River View",
+      "Boat Ride"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000130",
+      "email": "hotel131@example.com",
+      "completeAddress": "230 Main Road, Agra, India",
+      "location": "27.1767,78.0081"
+    },
+    "active": true
+  },
+  {
+    "name": "Heritage Munnar Hotel 132",
+    "city": "Munnar",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "River View",
+      "Laundry",
+      "Room Service"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000131",
+      "email": "hotel132@example.com",
+      "completeAddress": "231 Main Road, Munnar, India",
+      "location": "10.0889,77.0595"
+    },
+    "active": true
+  },
+  {
+    "name": "Elite Alleppey Residency 133",
+    "city": "Alleppey",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Gym",
+      "Bonfire",
+      "Lake View",
+      "Cafe"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000132",
+      "email": "hotel133@example.com",
+      "completeAddress": "232 Main Road, Alleppey, India",
+      "location": "9.4981,76.3388"
+    },
+    "active": true
+  },
+  {
+    "name": "Urban Pondicherry Suites 134",
+    "city": "Pondicherry",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "WiFi",
+      "Room Service",
+      "Beach Access",
+      "AC"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000133",
+      "email": "hotel134@example.com",
+      "completeAddress": "233 Main Road, Pondicherry, India",
+      "location": "11.9416,79.8083"
+    },
+    "active": true
+  },
+  {
+    "name": "Vista Kochi Retreat 135",
+    "city": "Kochi",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Parking",
+      "Swimming Pool",
+      "Mountain View",
+      "Spa"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000134",
+      "email": "hotel135@example.com",
+      "completeAddress": "234 Main Road, Kochi, India",
+      "location": "9.9312,76.2673"
+    },
+    "active": true
+  },
+  {
+    "name": "Royal Ahmedabad Palace 136",
+    "city": "Ahmedabad",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Laundry",
+      "Swimming Pool",
+      "Gym",
+      "Spa"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000135",
+      "email": "hotel136@example.com",
+      "completeAddress": "235 Main Road, Ahmedabad, India",
+      "location": "23.0225,72.5714"
+    },
+    "active": true
+  },
+  {
+    "name": "Grand Chandigarh Inn 137",
+    "city": "Chandigarh",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Gym",
+      "Business Center",
+      "Laundry",
+      "Room Service"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000136",
+      "email": "hotel137@example.com",
+      "completeAddress": "236 Main Road, Chandigarh, India",
+      "location": "30.7333,76.7794"
+    },
+    "active": true
+  },
+  {
+    "name": "Golden Lucknow Heights 138",
+    "city": "Lucknow",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Gym",
+      "Beach Access",
+      "Business Center",
+      "Mountain View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000137",
+      "email": "hotel138@example.com",
+      "completeAddress": "237 Main Road, Lucknow, India",
+      "location": "26.8467,80.9462"
+    },
+    "active": true
+  },
+  {
+    "name": "Silver Indore Haven 139",
+    "city": "Indore",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Laundry",
+      "WiFi",
+      "AC",
+      "Lake View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000138",
+      "email": "hotel139@example.com",
+      "completeAddress": "238 Main Road, Indore, India",
+      "location": "22.7196,75.8577"
+    },
+    "active": true
+  },
+  {
+    "name": "Emerald Bhopal Grand 140",
+    "city": "Bhopal",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Mountain View",
+      "River View",
+      "Restaurant",
+      "Bonfire"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000139",
+      "email": "hotel140@example.com",
+      "completeAddress": "239 Main Road, Bhopal, India",
+      "location": "23.2599,77.4126"
+    },
+    "active": true
+  },
+  {
+    "name": "Sapphire Rishikesh Resort 141",
+    "city": "Rishikesh",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Gym",
+      "Bonfire",
+      "WiFi",
+      "Mountain View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000140",
+      "email": "hotel141@example.com",
+      "completeAddress": "240 Main Road, Rishikesh, India",
+      "location": "30.0869,78.2676"
+    },
+    "active": true
+  },
+  {
+    "name": "Palm Dehradun Hotel 142",
+    "city": "Dehradun",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Restaurant",
+      "WiFi",
+      "Business Center",
+      "Swimming Pool"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000141",
+      "email": "hotel142@example.com",
+      "completeAddress": "241 Main Road, Dehradun, India",
+      "location": "30.3165,78.0322"
+    },
+    "active": true
+  },
+  {
+    "name": "Lake Mussoorie Residency 143",
+    "city": "Mussoorie",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Lake View",
+      "Parking",
+      "Laundry"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000142",
+      "email": "hotel143@example.com",
+      "completeAddress": "242 Main Road, Mussoorie, India",
+      "location": "30.4598,78.0664"
+    },
+    "active": true
+  },
+  {
+    "name": "Hill Ooty Suites 144",
+    "city": "Ooty",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Business Center",
+      "WiFi",
+      "Laundry",
+      "River View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000143",
+      "email": "hotel144@example.com",
+      "completeAddress": "243 Main Road, Ooty, India",
+      "location": "11.4064,76.6932"
+    },
+    "active": true
+  },
+  {
+    "name": "River Darjeeling Retreat 145",
+    "city": "Darjeeling",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Parking",
+      "Swimming Pool",
+      "Beach Access",
+      "Lake View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000144",
+      "email": "hotel145@example.com",
+      "completeAddress": "244 Main Road, Darjeeling, India",
+      "location": "27.0360,88.2627"
+    },
+    "active": true
+  },
+  {
+    "name": "Sky Gangtok Palace 146",
+    "city": "Gangtok",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Cafe",
+      "Mountain View",
+      "Lake View",
+      "Business Center"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000145",
+      "email": "hotel146@example.com",
+      "completeAddress": "245 Main Road, Gangtok, India",
+      "location": "27.3389,88.6065"
+    },
+    "active": true
+  },
+  {
+    "name": "Heritage Coorg Inn 147",
+    "city": "Coorg",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Cafe",
+      "Lake View",
+      "Swimming Pool",
+      "River View"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000146",
+      "email": "hotel147@example.com",
+      "completeAddress": "246 Main Road, Coorg, India",
+      "location": "12.3375,75.8069"
+    },
+    "active": true
+  },
+  {
+    "name": "Elite Mysore Heights 148",
+    "city": "Mysore",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Gym",
+      "Lake View",
+      "Room Service",
+      "Spa"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000147",
+      "email": "hotel148@example.com",
+      "completeAddress": "247 Main Road, Mysore, India",
+      "location": "12.2958,76.6394"
+    },
+    "active": true
+  },
+  {
+    "name": "Urban Visakhapatnam Haven 149",
+    "city": "Visakhapatnam",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "River View",
+      "Mountain View",
+      "Boat Ride",
+      "Parking"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000148",
+      "email": "hotel149@example.com",
+      "completeAddress": "248 Main Road, Visakhapatnam, India",
+      "location": "17.6868,83.2185"
+    },
+    "active": true
+  },
+  {
+    "name": "Vista Bhubaneswar Grand 150",
+    "city": "Bhubaneswar",
+    "photos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+    ],
+    "amenities": [
+      "Cafe",
+      "Beach Access",
+      "Parking",
+      "Restaurant"
+    ],
+    "contactInfo": {
+      "phoneNumber": "+91-9810000149",
+      "email": "hotel150@example.com",
+      "completeAddress": "249 Main Road, Bhubaneswar, India",
+      "location": "20.2961,85.8245"
+    },
+    "active": true
+  }
+]

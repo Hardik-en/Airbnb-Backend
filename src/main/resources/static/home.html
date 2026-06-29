@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Airbnb Login</title>
+</head>
+<body>
+
+<h1>Airbnb Login</h1>
+
+<form id="loginForm">
+    <input type="email" id="email" placeholder="Email" required>
+    <br><br>
+
+    <input type="password" id="password" placeholder="Password" required>
+    <br><br>
+
+    <button type="submit">Login</button>
+</form>
+
+<br>
+
+<button onclick="googleLogin()">
+    Continue With Google
+</button>
+
+<script>
+
+    document.getElementById("loginForm")
+        .addEventListener("submit", async (e)=>{
+
+            e.preventDefault();
+
+            const response = await fetch(
+                "http://localhost:8090/api/v1/auth/login",
+                {
+                    method:"POST",
+                    headers:{
+                        "Content-Type":"application/json"
+                    },
+                    body:JSON.stringify({
+                        email:document.getElementById("email").value,
+                        password:document.getElementById("password").value
+                    })
+                }
+            );
+
+            const data = await response.json();
+
+            localStorage.setItem("accessToken",data.data.accessToken);
+
+            window.location.href="/home.html";
+        });
+
+    function googleLogin(){
+        window.location.href =
+            "http://localhost:8090/api/v1/oauth2/authorization/google";
+    }
+
+</script>
+
+</body>
+</html>
